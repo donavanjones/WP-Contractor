@@ -1,0 +1,62 @@
+.redesigned-theme-2018 input.btTxt
+{
+	background-color:#028e02 !important;
+	    border: 1px solid #028e02 !important;
+			float:left !important;
+}
+
+.redesigned-theme-2018 input.btTxt:focus, .redesigned-theme-2018 input.btTxt:hover
+{
+	background-color:#069b06 !important;
+	    border: 1px solid #069b06 !important;
+}
+
+.redesigned-theme-2018 .wufoo .floatInstructionRight small
+{
+    left: 270px !important;
+		width: 250px !important;
+}
+
+
+.redesigned-theme-2018 .wufoo select.select
+{height:100px !important;}
+
+.redesigned-theme-2018 .wufoo select.select
+{
+	display: block !important;
+  height: 41px !important;
+}
+.wufoo-dropdown
+{
+	display: none;
+}
+
+
+@media only screen and (max-width: 991px)
+{
+	.redesigned-theme-2018 .wufoo .floatInstructionRight small
+	{
+	    left: 270px !important;
+			width: 250px !important;
+	}
+}
+
+
+
+@media only screen and (max-width: 767px)
+{
+	.redesigned-theme-2018 .wufoo .floatInstructionRight small
+	{
+	    left: 224px !important;
+			width: 250px !important;
+	}
+}
+
+@media only screen and (max-width: 430px)
+{
+	.redesigned-theme-2018 .wufoo .floatInstructionRight small
+	{
+	    left: 125px !important;
+			width: 250px !important;
+	}
+}
